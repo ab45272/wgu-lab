@@ -10,3 +10,4 @@ This repository documents my journey through the WGU B.S. Cybersecurity and Info
 - Build cybersecurity labs
 - Earn CompTIA certifications
 - Build a professional portfolio
+First commit from my new HP Envy workstation.
