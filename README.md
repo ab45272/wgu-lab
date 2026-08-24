@@ -1,26 +1,55 @@
 # WGU Lab
 
-My learning roadmap through the **Western Governors University B.S. Cybersecurity and Information Assurance program**.
+### Cybersecurity Learning Roadmap
 
-This repository documents what I learn, how I learn it, the skills I develop, and the independent labs and projects I build throughout my degree.
+A living record of my progress through the **Western Governors University B.S. Cybersecurity and Information Assurance program** — including what I learn, how I practice it, the tools I use, and the independent projects I build along the way.
 
-## Start Here — WGU Study Hall
+---
 
-If you are another WGU student visiting this repository, **Study Hall is the best place to start**.
+## 🚀 Start Here — WGU Study Hall
 
-[WGU Study Hall Prompt](study-hall.md)
+### [→ Open the WGU Study Hall Prompt](study-hall.md)
 
-Study Hall is a reusable AI tutoring prompt I developed to prepare for upcoming WGU courses. It includes configurable mastery targets, rapid-fire quizzes, hint-based learning, adaptive teaching methods, OA and PA preparation, Mobile Mode for voice-based studying, session continuity, and academic-integrity safeguards.
+**WGU Study Hall** is a reusable AI tutoring workflow I developed to prepare for upcoming courses before beginning them.
 
-It is designed to be customized. If it helps you, use it, modify it, or build something better from it.
+It includes:
 
-## What This Repository Is
+- Configurable mastery targets
+- Rapid-fire quizzes
+- Hint-based multiple-choice practice
+- Objective Assessment (OA) preparation
+- Performance Assessment (PA) preparation
+- Adaptive teaching methods
+- Subject rotation
+- Mobile / voice-dictation study
+- Session continuity
+- Academic-integrity safeguards
 
-`wgu-lab` is a living record of my development throughout the WGU Cybersecurity and Information Assurance degree.
+The prompt is designed to be customized.
 
-The repository is organized primarily around my actual degree plan rather than individual technologies.
+If it helps you, use it, modify it, or build something better from it.
 
-Each course has its own location in the roadmap. As I progress, those course areas can contain my own:
+---
+
+## 🗺️ Degree Roadmap
+
+The core of this repository follows my actual WGU degree plan.
+
+| Term | Course Area |
+|---|---|
+| **Term 1** | [View Term 1](courses/term-01/) |
+| **Term 2** | [View Term 2](courses/term-02/) |
+| **Term 3** | [View Term 3](courses/term-03/) |
+| **Term 4** | [View Term 4](courses/term-04/) |
+| **Term 5** | [View Term 5](courses/term-05/) |
+| **Term 6** | [View Term 6](courses/term-06/) |
+| **Term 7** | [View Term 7](courses/term-07/) |
+| **Term 8** | [View Term 8](courses/term-08/) |
+| **Term 9** | [View Term 9](courses/term-09/) |
+
+Each course has its own learning area.
+
+As I progress through the program, those directories can grow to include my own:
 
 - Learning notes
 - Skill demonstrations
@@ -30,82 +59,108 @@ Each course has its own location in the roadmap. As I progress, those course are
 - Independent projects
 - Reflections and takeaways
 
-The goal is not to make it appear that I already know everything.
-
-The goal is to document the progression from learning something for the first time to being able to apply it independently.
+The goal is to document progression — not pretend I already know everything.
 
 **Git history is part of the learning record.**
 
-## Degree Roadmap
+---
 
-The `courses/` directory follows my WGU degree plan chronologically from Term 1 through Term 9.
+## 🧪 Projects
 
-Each term contains folders corresponding to the courses in that portion of my degree plan.
+### [→ View Independent Projects](projects/)
 
-Course directories begin as simple learning records and grow only when I create something that belongs there.
+This area is for independent labs and projects demonstrating skills I develop throughout the degree.
 
-The course structure documents my learning journey. It is **not** intended to reproduce WGU course content or assessments.
+A project may be inspired by something I learn in a course, but anything published here as portfolio work is intended to be **my own independent implementation**, not a copy or reconstruction of a WGU assessment.
 
-## Projects
+Course folders can link to related projects so the path from:
 
-[`projects/`](projects/)
+**learning → practice → application**
 
-This area contains independent projects and labs that demonstrate skills developed throughout my degree.
+remains visible.
 
-A project may be inspired by skills I learned during a course, but public portfolio projects are my own independent work rather than copies or recreations of WGU assessments.
+---
 
-Course documentation can link to related independent projects so the connection between learning and practical application remains visible.
+## 🏆 Certifications
 
-## Certifications
+### [→ View Certification Work](certifications/)
 
-[`certifications/`](certifications/)
+Certification preparation that spans multiple courses can live here.
 
-Certification preparation and learning that spans multiple courses can live here.
+This area may include my own study notes, labs, practice work, and supporting technical resources developed while preparing for industry certifications.
 
-## Resources
+---
 
-[`resources/`](resources/)
+## 📚 Resources
 
-Reusable notes, references, workflows, and learning resources I create throughout the degree can live here when they do not belong to one specific course.
+### [→ View Resources](resources/)
 
-## Learning Philosophy
+Reusable material I create that does not belong to one specific course can live here, including:
 
-This repository is intentionally a work in progress.
+- Technical references
+- Study workflows
+- Original notes
+- Checklists
+- Learning tools
+- Documentation
+- Reusable guides
 
-Mistakes, revisions, improved scripts, better documentation, failed experiments, troubleshooting, and increasingly complex projects are all part of the record.
+---
+
+## 🎯 What This Repository Is
+
+`wgu-lab` is both a **learning workspace** and a **long-term technical record**.
+
+It began as a small collection of folders for technologies I expected to encounter while studying cybersecurity.
+
+As my degree plan became clearer, I reorganized it around the actual progression of my WGU program.
+
+Rather than only preserving finished work, I want this repository to show the process:
+
+**Learn → Practice → Build → Break → Troubleshoot → Improve → Repeat**
+
+Mistakes, revisions, failed experiments, improved scripts, better documentation, and increasingly difficult projects are all part of that story.
 
 I would rather show genuine progression than create the appearance of expertise I have not yet earned.
 
-## Academic Integrity
+---
 
-**This repository documents my learning — not my WGU assessments.**
+## 🔐 Academic Integrity
 
-This public repository is intended for my own original learning artifacts, independent labs, scripts, projects, technical notes, study tools, and demonstrations of skills I have developed.
+> **This repository documents my learning — not my WGU assessments.**
 
-I do not intend to publish or distribute:
+This public repository is intended for my own original:
+
+- Learning artifacts
+- Independent labs
+- Scripts
+- Projects
+- Technical notes
+- Study tools
+- Skill demonstrations
+
+I do **not** intend to publish or distribute:
 
 - WGU assessment questions or answers
 - Submitted Performance Assessments
 - WGU rubrics
-- Proprietary course materials
+- Proprietary WGU course materials
 - Protected learning materials
 - Reproductions or reconstructions of graded assignments
 - Material that would allow another student to reconstruct my assessment submission
 
-When a WGU course teaches me a skill worth demonstrating publicly, I can build an **independent project or lab** using that skill and document that work instead.
+When a WGU course teaches me a skill worth demonstrating publicly, the goal is to build an **independent project or lab using that skill** and document that work instead.
 
-Any AI-assisted resources in this repository are intended for tutoring, practice, learning, and skill development—not for completing graded assessments on behalf of a student.
+Any AI-assisted resources in this repository are intended for tutoring, practice, learning, and skill development — not for completing graded assessments on behalf of a student.
 
 Anyone using material from this repository is responsible for following current WGU academic-integrity requirements, AI-use policies, assessment rules, and course-specific instructions.
 
-## Repository Evolution
-
-`wgu-lab` began as a small collection of technology folders for subjects I expected to encounter while studying cybersecurity.
-
-As my degree plan became clearer, I reorganized the repository around the actual progression of my WGU program.
-
-The repository will continue evolving as my skills, coursework, projects, and professional experience develop.
-
 ---
 
-**Status:** Actively evolving throughout my WGU cybersecurity degree.
+## 📈 Repository Status
+
+**Actively evolving throughout my WGU cybersecurity degree.**
+
+This repository is intentionally unfinished.
+
+That's the point.
