@@ -1,82 +1,46 @@
-# WGU Lab
+# WGU-Lab
 
-### Cybersecurity Learning Roadmap
+## My Cybersecurity Learning Roadmap
 
-A living record of my progress through the **Western Governors University B.S. Cybersecurity and Information Assurance program** — including what I learn, how I practice it, the tools I use, and the independent projects I build along the way.
+This repository is a living record of my journey through the **Western Governors University B.S. Cybersecurity and Information Assurance program**.
+
+I created WGU-Lab to document more than completed courses or finished projects.
+
+I want it to show how my technical skills develop over time — what I learn, how I practice it, what I build, what I break, how I troubleshoot it, and what I understand afterward.
+
+The goal is to preserve the progression:
+
+**Learn → Practice → Build → Break → Troubleshoot → Improve → Repeat**
+
+I would rather show genuine growth than create the appearance of expertise I have not yet earned.
+
+**Git history is part of that learning record.**
 
 ---
 
-## 🚀 Start Here — WGU Study Hall
+## 🎓 Where the Journey Started
 
-> **Platform note:** WGU Study Hall is developed and tested primarily with **ChatGPT**. It may work with other AI platforms, but features and behavior can differ. See the compatibility notes below before adapting it to another platform.
+Before beginning my WGU degree, I wanted to use the time leading up to my first term to prepare as much as possible.
 
-### [→ Open the WGU Study Hall Prompt](study-hall.md)
+One of the first things I created was **WGU Study Hall**, an AI-assisted tutoring workflow for preparing for upcoming WGU courses.
 
-**WGU Study Hall** is a reusable AI tutoring workflow I developed to prepare for upcoming courses before beginning them.
+It started as a tool for my own preparation.
 
-It includes:
+As I continued using, testing, breaking, and improving it, Study Hall became a project of its own. I decided to make it available for other WGU students who may find it useful regardless of their degree program.
 
-- Configurable mastery targets
-- Rapid-fire quizzes
-- Hint-based multiple-choice practice
-- Objective Assessment (OA) preparation
-- Performance Assessment (PA) preparation
-- Adaptive teaching methods
-- Primary-course focus with maintenance review
-- Mobile / voice-dictation study
-- Session-start and continuity rules
-- Academic-integrity safeguards
+### [→ WGU Study Hall](study-hall.md)
 
-The prompt is designed to be customized.
+Study Hall is one part of WGU-Lab.
 
-If it helps you, use it, modify it, or build something better from it.
-
-### Using and Updating Study Hall
-
-The maintained `study-hall.md` in this repository is the default canonical version of the WGU Study Hall prompt.
-
-Study Hall is designed so that when a student returns and indicates they are ready to study, the AI refreshes its working Study Hall instructions from the designated canonical prompt source before tutoring begins, whenever that source is accessible to the AI system being used.
-
-This helps reduce reliance on conversational memory and allows improvements to the canonical prompt to take effect in future Study Hall sessions.
-
-If an AI system cannot access the canonical prompt source, the Study Hall workflow instructs it to say so rather than pretending that it retrieved or refreshed the prompt.
-
-You may copy, modify, or fork Study Hall for your own use.
-
-If you customize the prompt, you can designate your own maintained copy as your canonical source instead of this repository's version.
-
-Keep in mind that a copied or forked version does not automatically receive future changes made to the WGU-Lab version.
-
-If you want GitHub notifications about activity or future changes to this repository, use GitHub's **Watch** notification options. Starring a repository is useful for bookmarking or showing interest, but should not be treated as an update-notification mechanism.
-
-### AI Platform Compatibility
-
-WGU Study Hall is developed and tested primarily with **ChatGPT**.
-
-The prompt is written in a platform-neutral format where reasonably possible, but it should not be assumed to behave identically across different AI platforms, models, accounts, or configurations.
-
-Features and behaviors involving areas such as:
-
-- Access to external sources
-- Conversation context
-- Persistent memory
-- Connected tools or integrations
-- Session continuity
-- Instruction persistence
-
-may differ between AI systems or may not be available at all.
-
-If you use Study Hall with another AI platform, review and adapt the prompt as necessary for that system's capabilities.
-
-Do not assume that an AI system successfully accessed, remembered, refreshed, or persisted information merely because the prompt instructed it to do so.
+The rest of this repository follows my progression through the degree itself: courses, technical practice, labs, projects, certifications, documentation, experiments, mistakes, revisions, and whatever else I end up building along the way.
 
 ---
 
 ## 🗺️ Degree Roadmap
 
-The core of this repository follows my actual WGU degree plan.
+The core of WGU-Lab follows my actual WGU degree plan.
 
-| Term | Course Area |
+| Term | Courses |
 |---|---|
 | **Term 1** | [View Term 1](courses/term-01/) |
 | **Term 2** | [View Term 2](courses/term-02/) |
@@ -90,7 +54,7 @@ The core of this repository follows my actual WGU degree plan.
 
 Each course has its own learning area.
 
-As I progress through the program, those directories can grow to include my own:
+As I progress through the program, those directories can grow with my own:
 
 - Learning notes
 - Skill demonstrations
@@ -98,11 +62,12 @@ As I progress through the program, those directories can grow to include my own:
 - Scripts
 - Troubleshooting documentation
 - Independent projects
-- Reflections and takeaways
+- Reflections
+- Lessons learned
 
-The goal is to document progression — not pretend I already know everything.
+The repository is intentionally not filled with polished material for courses I have not completed yet.
 
-**Git history is part of the learning record.**
+I want the contents to develop as my knowledge develops.
 
 ---
 
@@ -112,9 +77,22 @@ The goal is to document progression — not pretend I already know everything.
 
 This area is for independent labs and projects demonstrating skills I develop throughout the degree.
 
-A project may be inspired by something I learn in a course, but anything published here as portfolio work is intended to be **my own independent implementation**, not a copy or reconstruction of a WGU assessment.
+A project may begin with something I encounter while studying, but anything published here as portfolio work is intended to be **my own independent implementation**, not a copy or reconstruction of a WGU assessment.
 
-Course folders can link to related projects so the path from:
+Projects should document more than the finished result.
+
+When appropriate, I want them to capture:
+
+- What I attempted
+- Why I attempted it
+- What I changed
+- What happened
+- What went wrong
+- How I troubleshot it
+- How I solved it
+- What I learned
+
+Course directories can link to related projects so the path from:
 
 **learning → practice → application**
 
@@ -126,43 +104,66 @@ remains visible.
 
 ### [→ View Certification Work](certifications/)
 
-Certification preparation that spans multiple courses can live here.
+Industry certifications are part of my cybersecurity education and may span material from several WGU courses.
 
-This area may include my own study notes, labs, practice work, and supporting technical resources developed while preparing for industry certifications.
+This area can grow to include my own:
+
+- Study notes
+- Practice work
+- Labs
+- Technical references
+- Certification-related projects
+- Lessons learned while preparing
+
+The goal is not simply to record that I earned a certification.
+
+I want to document some of the knowledge and technical growth behind it.
 
 ---
 
-## 📚 Resources
+## 📚 Resources and Learning Tools
 
 ### [→ View Resources](resources/)
 
-Reusable material I create that does not belong to one specific course can live here, including:
+Reusable material I create that does not belong to one specific course can live here.
+
+That may include:
 
 - Technical references
-- Study workflows
 - Original notes
 - Checklists
 - Learning tools
 - Documentation
 - Reusable guides
+- Workflows
+
+WGU Study Hall is also part of this broader idea: build useful tools when a real learning problem gives me a reason to build them.
 
 ---
 
-## 🎯 What This Repository Is
+## 🛠️ Learning by Building
 
-`wgu-lab` is both a **learning workspace** and a **long-term technical record**.
+WGU-Lab itself is part of my technical education.
 
-It began as a small collection of folders for technologies I expected to encounter while studying cybersecurity.
+Maintaining this repository gives me practical experience with tools and concepts such as:
 
-As my degree plan became clearer, I reorganized it around the actual progression of my WGU program.
+- Git
+- GitHub
+- Markdown
+- Version control
+- Branches
+- Commits
+- Pull requests
+- Documentation
+- Repository organization
+- AI prompting and prompt iteration
+- Technical project development
 
-Rather than only preserving finished work, I want this repository to show the process:
+As my skills grow, the tools and technologies represented here will grow with them.
 
-**Learn → Practice → Build → Break → Troubleshoot → Improve → Repeat**
+I do not expect the structure of WGU-Lab to remain frozen for the duration of my degree.
 
-Mistakes, revisions, failed experiments, improved scripts, better documentation, and increasingly difficult projects are all part of that story.
-
-I would rather show genuine progression than create the appearance of expertise I have not yet earned.
+Improving the environment is part of learning how to build and maintain one.
 
 ---
 
@@ -205,3 +206,5 @@ Anyone using material from this repository is responsible for following current 
 This repository is intentionally unfinished.
 
 That's the point.
+
+The commits, revisions, mistakes, reorganizations, experiments, successful projects, failed attempts, and lessons learned along the way are all part of the record.
