@@ -8,6 +8,8 @@ A living record of my progress through the **Western Governors University B.S. C
 
 ## 🚀 Start Here — WGU Study Hall
 
+> **Platform note:** WGU Study Hall is developed and tested primarily with **ChatGPT**. It may work with other AI platforms, but features and behavior can differ. See the compatibility notes below before adapting it to another platform.
+
 ### [→ Open the WGU Study Hall Prompt](study-hall.md)
 
 **WGU Study Hall** is a reusable AI tutoring workflow I developed to prepare for upcoming courses before beginning them.
@@ -46,6 +48,27 @@ If you customize the prompt, you can designate your own maintained copy as your 
 Keep in mind that a copied or forked version does not automatically receive future changes made to the WGU-Lab version.
 
 If you want GitHub notifications about activity or future changes to this repository, use GitHub's **Watch** notification options. Starring a repository is useful for bookmarking or showing interest, but should not be treated as an update-notification mechanism.
+
+### AI Platform Compatibility
+
+WGU Study Hall is developed and tested primarily with **ChatGPT**.
+
+The prompt is written in a platform-neutral format where reasonably possible, but it should not be assumed to behave identically across different AI platforms, models, accounts, or configurations.
+
+Features and behaviors involving areas such as:
+
+- Access to external sources
+- Conversation context
+- Persistent memory
+- Connected tools or integrations
+- Session continuity
+- Instruction persistence
+
+may differ between AI systems or may not be available at all.
+
+If you use Study Hall with another AI platform, review and adapt the prompt as necessary for that system's capabilities.
+
+Do not assume that an AI system successfully accessed, remembered, refreshed, or persisted information merely because the prompt instructed it to do so.
 
 ---
 
