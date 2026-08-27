@@ -20,14 +20,32 @@ It includes:
 - Objective Assessment (OA) preparation
 - Performance Assessment (PA) preparation
 - Adaptive teaching methods
-- Subject rotation
+- Primary-course focus with maintenance review
 - Mobile / voice-dictation study
-- Session continuity
+- Session-start and continuity rules
 - Academic-integrity safeguards
 
 The prompt is designed to be customized.
 
 If it helps you, use it, modify it, or build something better from it.
+
+### Using and Updating Study Hall
+
+The maintained `study-hall.md` in this repository is the default canonical version of the WGU Study Hall prompt.
+
+Study Hall is designed so that when a student returns and indicates they are ready to study, the AI refreshes its working Study Hall instructions from the designated canonical prompt source before tutoring begins, whenever that source is accessible to the AI system being used.
+
+This helps reduce reliance on conversational memory and allows improvements to the canonical prompt to take effect in future Study Hall sessions.
+
+If an AI system cannot access the canonical prompt source, the Study Hall workflow instructs it to say so rather than pretending that it retrieved or refreshed the prompt.
+
+You may copy, modify, or fork Study Hall for your own use.
+
+If you customize the prompt, you can designate your own maintained copy as your canonical source instead of this repository's version.
+
+Keep in mind that a copied or forked version does not automatically receive future changes made to the WGU-Lab version.
+
+If you want GitHub notifications about activity or future changes to this repository, use GitHub's **Watch** notification options. Starring a repository is useful for bookmarking or showing interest, but should not be treated as an update-notification mechanism.
 
 ---
 
