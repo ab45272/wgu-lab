@@ -8,7 +8,7 @@ WGU Study Hall was created and tested primarily with **ChatGPT** and is designed
 
 ### 1. Download WGU Study Hall
 
-[**→ Download `study-hall.md`**](https://raw.githubusercontent.com/ab45272/wgu-lab/main/study-hall.md)
+[**→ Download `study-hall.md`**](https://github.com/ab45272/wgu-lab/releases/latest/download/study-hall.md)
 
 ### 2. Open ChatGPT
 
