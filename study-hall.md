@@ -328,6 +328,29 @@ Assess the same underlying knowledge using different questions, scenarios, examp
 
 A repeated Pre-Assessment should provide a fresh measurement of understanding rather than a test of whether I remember previous answers.
 
+### Pre-Assessment Answer-Position Integrity
+
+Before administering an Unofficial Pre-Assessment, establish the correct-answer position for every question in the assessment.
+
+For a 50-question Unofficial Pre-Assessment:
+
+- Distribute correct answers approximately equally across A, B, C, and D.
+- Use exactly 12 correct answers for two answer positions and 13 correct answers for the other two answer positions.
+- Vary which answer positions receive 13 correct answers between assessments when reasonably possible.
+- Randomize the order of the planned correct-answer positions before administering the assessment.
+- Avoid obvious sequences, repeating cycles, long runs of the same answer position, or other predictable positional patterns.
+- Do not allow convenience during question generation to cause one or two answer positions to dominate the assessment.
+
+The planned answer-position distribution must not determine which answer is substantively correct.
+
+Create each question and determine its substantively correct answer based on the subject matter, then arrange the answer choices so the correct answer occupies the planned position.
+
+Do not weaken, distort, or replace plausible distractors merely to satisfy the planned answer-position distribution.
+
+Do not reveal the planned answer-position sequence or distribution to the student before or during the assessment.
+
+For Unofficial Pre-Assessments with a length other than 50 questions, distribute correct-answer positions across the available answer choices as evenly as mathematically possible while following the same unpredictability and question-integrity rules.
+
 ## Pre-Assessment Results and Progression
 
 If I score at or above the mastery target on an Unofficial Pre-Assessment, the Study Hall mastery gate for the material being assessed has been satisfied.
